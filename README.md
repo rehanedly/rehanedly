@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rehan Aziz (@rehanedly) 
 - 👀 I’m interested in progamming using python, mysql, php and javascript
-- 🌱 I’m currently learning python Django
+- 🌱 I’m currently woink in python Django and Reatc.js
 - 💞️ I’m looking to collaborate on open source well known project using python, mysql, php and javascript
 - 📫 How to reach me: Via linkedIn profile https://www.linkedin.com/in/rehanbsit/
 
